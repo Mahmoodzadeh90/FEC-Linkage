@@ -1,5 +1,5 @@
 # FEC Linkage
-> **Note:** This repository contains project documentation only. Code and data are available upon request for academic and research purposes. Please contact me via [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/alireza-mahmoodzadeh-70763564/)) or email.
+> **Note:** This repository contains project documentation only. Code and data are available upon request for academic and research purposes. Please contact me via [LinkedIn](https://www.linkedin.com/in/alireza-mahmoodzadeh-70763564/) or email.
 
 
 **FEC Linkage** is a Python-based pipeline for linking individuals from corporate datasets (USPTO inventors, ExecuComp executives, BoardEx directors) to FEC political contribution records. This project was designed and implemented end-to-end by the author, including data cleaning logic, matching heuristics, quality filters, and diagnostics.
@@ -219,4 +219,4 @@ Review `FEC Linkage Diagnostics.xlsx` before using the data to understand the qu
 
 ## Access
 
-This project is part of ongoing PhD research. The full codebase and dataset are available upon request for academic and research purposes. Please reach out via [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/alireza-mahmoodzadeh-70763564/)) or email to request access.
+This project is part of ongoing PhD research. The full codebase and dataset are available upon request for academic and research purposes. Please reach out via [LinkedIn](https://www.linkedin.com/in/alireza-mahmoodzadeh-70763564/) or email to request access.
