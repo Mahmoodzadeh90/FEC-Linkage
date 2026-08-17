@@ -1,5 +1,7 @@
 # FEC Linkage
-> **Note:** This repository contains project documentation only. Code and data are available upon request for academic and research purposes. Please contact me via [LinkedIn](https://www.linkedin.com/in/alireza-mahmoodzadeh-70763564/) or email.
+> **Citation:** This pipeline was developed for: Mahmoodzadeh, A., Robertson, W., Chin, M.K., & Visnjic, I. "The Political Side of Engagement: How Political Engagement Shapes Organizational Attention to Eco-Innovation." Working paper.
+
+> **Access:** This repository contains project documentation only. Code and data are available upon request for academic and research purposes. Please contact me at alireza.mahmoodzade@gmail.com or via [LinkedIn](https://www.linkedin.com/in/alireza-mahmoodzadeh-70763564/).
 
 
 **FEC Linkage** is a Python-based pipeline for linking individuals from corporate datasets (USPTO inventors, ExecuComp executives, BoardEx directors) to FEC political contribution records. This project was designed and implemented end-to-end by the author, including data cleaning logic, matching heuristics, quality filters, and diagnostics.
